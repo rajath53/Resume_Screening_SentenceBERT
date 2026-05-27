@@ -29,13 +29,3 @@ Ranked candidate list
 with match score
 and skill matching.
 """
-
-with open(
-    "README.md",
-    "w"
-) as f:
-    f.write(readme)
-
-print(
-    "README created"
-)
